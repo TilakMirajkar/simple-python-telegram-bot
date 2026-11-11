@@ -25,7 +25,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourbotname.git
+   git clone https://github.com/TilakMirajkar/simple-python-telegram-bot
    ```
 
 2. Install dependencies:
